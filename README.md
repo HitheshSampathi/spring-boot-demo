@@ -1,5 +1,5 @@
 # spring-boot-demo
- This is project is built using Java 8, Maven and Spring Boot.
+ This project is built using Java 8, Maven and Spring Boot.
 # What is this project About
  This Project acts as demo model for developing Rest Endpoints using Spring boot.
 # What you will learn 
